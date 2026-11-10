@@ -8,7 +8,7 @@ This Python script calculates the approximate value of Pi ($\pi$) using two famo
 
 1. Leibniz Formula for Pi ( leibnitz_pi(n))How it works: This function approximates Pi using the Gregory-Leibniz infinite series, which mathematically looks like this: $\pi = 4 \times (1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - ...)$.Implementation in code: It iterates n + 1times, alternating the sign for each odd denominator, adds the fractions together, and multiplies the final sum by 4.
 
-```pyhton
+```python
 accurate_pi = 3.141592653589
 def leibnitz_pi(n):
     sign = 1
