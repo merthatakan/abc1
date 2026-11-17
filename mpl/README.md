@@ -21,8 +21,7 @@ This file contains Python solutions for classical mathematical and algorithmic c
   * **Description**: Iteratively divides a composite number ($600,851,475,143$) by its smallest possible divisors to isolate and find its largest prime factor.
   * **Result**: The largest prime factor is **6,857**.
 
-* **Leibniz Pi Approximation (In Progress)**
-  * **Description**: A boilerplate function framework (`lebiniz_pi(n)`) designated for approximating the value of Pi using the Leibniz infinite series formula.
+
 
 ## pyh2
 
