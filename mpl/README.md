@@ -9,20 +9,20 @@ This file contains Python solutions for classical mathematical and algorithmic c
 
 ### 📋 Included Code Blocks & Problems
 
-* **Multiples of 3 and 5**[cite: 1]
-  * **Description**: Finds all natural numbers below 1000 that are multiples of 3 or 5, stores them in a list, and calculates their total sum[cite: 1].
-  * **Result**: The sum of all multiples of 3 and 5 below 1000 is **233,168**[cite: 1].
+* **Multiples of 3 and 5**
+  * **Description**: Finds all natural numbers below 1000 that are multiples of 3 or 5, stores them in a list, and calculates their total sum.
+  * **Result**: The sum of all multiples of 3 and 5 below 1000 is **233,168**.
 
-* **Even Fibonacci Numbers**[cite: 1]
-  * **Description**: Generates Fibonacci sequence terms starting with 1 and 2 up to a threshold of 4,000,000, filtering and summing up only the even-valued terms[cite: 1].
-  * **Result**: The sum of all even Fibonacci numbers below 4 million is **4,613,732**[cite: 1].
+* **Even Fibonacci Numbers**
+  * **Description**: Generates Fibonacci sequence terms starting with 1 and 2 up to a threshold of 4,000,000, filtering and summing up only the even-valued terms.
+  * **Result**: The sum of all even Fibonacci numbers below 4 million is **4,613,732**.
 
-* **Largest Prime Factor**[cite: 1]
-  * **Description**: Iteratively divides a composite number ($600,851,475,143$) by its smallest possible divisors to isolate and find its largest prime factor[cite: 1].
-  * **Result**: The largest prime factor is **6,857**[cite: 1].
+* **Largest Prime Factor**
+  * **Description**: Iteratively divides a composite number ($600,851,475,143$) by its smallest possible divisors to isolate and find its largest prime factor.
+  * **Result**: The largest prime factor is **6,857**.
 
-* **Leibniz Pi Approximation (In Progress)**[cite: 1]
-  * **Description**: A boilerplate function framework (`lebiniz_pi(n)`) designated for approximating the value of Pi using the Leibniz infinite series formula[cite: 1].
+* **Leibniz Pi Approximation (In Progress)**
+  * **Description**: A boilerplate function framework (`lebiniz_pi(n)`) designated for approximating the value of Pi using the Leibniz infinite series formula.
 
 ## pyh2
 
