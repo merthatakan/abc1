@@ -3,7 +3,7 @@
 ## pyhton exercises
 
 
-This file contains Python solutions for classical mathematical and algorithmic challenges, notably inspired by Project Euler problems, alongside numerical approximation scripts[cite: 1].
+This file contains Python solutions for classical mathematical and algorithmic challenges, notably inspired by Project Euler problems, alongside numerical approximation scripts. Below is a detailed description of the scripts included in the notebook:
 
 ---
 
